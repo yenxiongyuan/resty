@@ -20,7 +20,7 @@ const App = () => {
     
 
   const callApi = (requestParams) => {
-    console.log(requestParams)
+    // console.log(requestParams)
     // mock output
     const data = {
       count: 2,
